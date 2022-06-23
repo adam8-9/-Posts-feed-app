@@ -1,1 +1,1 @@
-# -Posts-feed-app
+# store-app made with next.js
